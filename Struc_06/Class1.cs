@@ -6,9 +6,12 @@ namespace Struc_06
 {
     struct Class1
     {
-        int age;
-        string name;
+        public int age;
+        public string name;
 
-        void 
+        public void displayInfo()
+        {
+            Console.WriteLine($"Age is {age}\nName is {name}");
+        }
     }
 }

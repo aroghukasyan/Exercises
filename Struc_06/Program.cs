@@ -6,7 +6,10 @@ namespace Struc_06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Class1 str;
+            str.age = 5;
+            str.name = "Karen";
+            str.displayInfo();
         }
 
     }
