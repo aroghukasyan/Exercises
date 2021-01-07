@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingParametersByValueAndByReferenceToMetode_04_01_2021", "PassingParametersByValueAndByReferenceToMetode_04_01_2021.csproj", "{81642BF5-3C0C-4FAA-8FCA-265CC303A482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81642BF5-3C0C-4FAA-8FCA-265CC303A482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81642BF5-3C0C-4FAA-8FCA-265CC303A482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81642BF5-3C0C-4FAA-8FCA-265CC303A482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81642BF5-3C0C-4FAA-8FCA-265CC303A482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8141C3B-92FB-4514-B57B-149F6BE0D24A}
+	EndGlobalSection
+EndGlobal
